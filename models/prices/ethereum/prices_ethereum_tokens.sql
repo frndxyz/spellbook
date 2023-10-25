@@ -358,7 +358,7 @@ FROM
     ('torn-tornado-cash', 'ethereum', 'TORN', 0x77777feddddffc19ff86db637967013e6c6a116c, 18),
     ('tpt-token-pocket', 'ethereum', 'TPT', 0x4161725d019690a3e0de50f6be67b07a86a9fae1, 4),
     ('trac-origintrail', 'ethereum', 'TRAC', 0xaa7a9ca87d3694b5755f213b5d04094b8d0f0a6f, 18),
-    ('trb-tributes', 'ethereum', 'TRB', 0x0ba45a8b5d5575935b8158a88c631e9f9c95a2e5, 18),
+    ('trb-tributes', 'ethereum', 'TRB', 0x88df592f8eb5d7bd38bfef7deb0fbc02cf3778a0, 18),
     ('trdl-strudel-finance', 'ethereum', 'TRDL', 0x297d33e17e61c2ddd812389c2105193f8348188a, 18),
     ('tribe-tribe', 'ethereum', 'TRIBE', 0xc7283b66eb1eb5fb86327f08e1b5816b0720212b, 18),
     ('trst-wetrust', 'ethereum', 'TRST', 0xcb94be6f13a1182e4a4b6140cb7bf2025d28e41b, 6),
